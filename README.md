@@ -15,7 +15,9 @@ The dashboard helps identify top-performing categories, profitable regions, and 
 - Microsoft Excel – Dataset handling and preparation
 - DAX – Measures and calculations
 
-**📈 Dashboard Features**
+**📈 Dashboard Features**</br>
+
+https://github.com/sanikabanduke/Sales-Data-Analysis-dashboard/blob/main/Sales%20data%20Analysis.pbix</br>
 
 - KPI Cards: Total Sales, Total Profit, and Total Discount
 - Category and Order Date slicers
